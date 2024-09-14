@@ -1,1 +1,2 @@
 # Loan-Default-Analysis
+This case study explores the factors influencing loan defaults using Exploratory Data Analysis (EDA). The analysis aims to identify patterns and variables that indicate a higher likelihood of default, enabling lenders to make informed decisions regarding loan approvals and risk mitigation strategies. By understanding the key drivers of loan default, financial institutions can optimize their lending practices and minimize potential losses.
